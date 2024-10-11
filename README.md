@@ -1,8 +1,8 @@
-# Hi there, I'm Muktar 👋
+# Hi there, I'm Hossain Muktar 👋
 
 🎯 **Mobile Developer | Android | iOS | Kotlin Multiplatform | Flutter** 
 
-💻 I build efficient, scalable, and intuitive mobile applications for Android and iOS.
+💻 I build efficient, scalable, and intuitive mobile applications for Android iOS KMP Flutter.
 🚀 Always learning and exploring new technologies to enhance mobile development.
 
 ---
@@ -24,5 +24,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ash
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossainmuktar&show_icons=true&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hossainmuktarr&theme=react-dark)](https://github.com/hossainmuktar/github-readme-activity-graph)
+
