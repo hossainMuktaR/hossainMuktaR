@@ -18,12 +18,7 @@
 
 ### 🏆 Featured Projects
 
-- 🔗 [Awesome Android App](https://github.com/yourusername/android-app)
-- 🔗 [iOS SwiftUI Demo](https://github.com/yourusername/ios-app)
-- 🔗 [Kotlin Multiplatform App](https://github.com/yourusername/kotlin-multiplatform-app)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossainmuktar&show_icons=true&theme=radical)
-[![HossainMuktaR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hossainmuktarr&theme=react-dark)](https://github.com/hossainmuktar/github-readme-activity-graph)
-
+- 🔗 [The Cat Api.ios](https://github.com/hossainMuktaR/TheCatApi-Paging-Caching.ios)
+- 🔗 [Note App.KMP](https://github.com/hossainMuktaR/NoteApp.KMP)
+- 🔗 [Crypto App.Flutter](https://github.com/hossainMuktaR/CryptoApp.Flutter)
+- 🔗 [Graphql.Android](https://github.com/hossainMuktaR/Graphql.Android))
